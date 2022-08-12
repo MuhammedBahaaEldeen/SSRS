@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-PII2UFD\SQL2019;Initial Catalog=ITI</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>b0a29564-ae99-4357-b4b5-5a1dff1f6e7c</DataSourceID>
+</RptDataSource>
